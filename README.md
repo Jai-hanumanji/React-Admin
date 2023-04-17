@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+It a business oriented administrator dashboard which consists of different matrices like earnings, recent transactions, sales overview. It consists of functionality for add, delete, update employees and customers. For meetings and discussions purpose it consists of fully functional calendar, kanban (task manager) and editor app along with notification and chat support for communication.. It also includes business charts like financial, pyramid etc.
+Tech Stack: React, Tailwind css, Syncfusion
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
